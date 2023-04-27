@@ -1,13 +1,13 @@
 # Title
-Crumping
+Nintendo vs Everybody
 
 
 # Project description
 
-Talks about the art of crumping
+Talking about the 40 plus year dominance of Nintendo in the gaming industry
 
 
 
 ## license
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
