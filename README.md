@@ -1,13 +1,22 @@
 # Title
-Nintendo vs Everybody
+un
 
 
 # Project description
 
-Talking about the 40 plus year dominance of Nintendo in the gaming industry
+deux
 
+
+## the process
+
+trois
+
+
+## github
+
+quatre
 
 
 ## license
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

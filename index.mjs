@@ -3,17 +3,27 @@ import fs from "fs/promises"
 import { writeFile } from "fs";
 
 
-let { title, description, license } = await inquirer
+let { title, description, the_process, github, license } = await inquirer
     .prompt([
         {
             type: 'input',
             name: 'title',
-            message: "What is the title of your README?"
+            message: "What is the title of your README?",
         },
         {
             type: 'input',
             name: 'description',
             message: "Provide a brief description of your project",
+        },
+        {
+            type: 'input',
+            name: 'the_process',
+            message: "What were your thoughts while working on the project?",
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: 'github account details',
         },
         {
             type: 'list',
@@ -27,7 +37,7 @@ let { title, description, license } = await inquirer
     ])
 
 
-console.log({ title, description, license });
+console.log({ title, description, the_process, github, license });
 
 let readmeText =
 
@@ -39,6 +49,15 @@ ${title}
 
 ${description}
 
+
+## the process
+
+${the_process}
+
+
+## github
+
+${github}
 
 
 ## license
