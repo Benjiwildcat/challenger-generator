@@ -1,22 +1,22 @@
 # Title
-un
+So Much Pain
 
 
 # Project description
 
-deux
+A project on French Puns
 
 
 ## the process
 
-trois
+I honestly enjoyed this challenge
 
 
 ## github
 
-quatre
+https://github.com/Benjiwildcat/challenger-generator
 
 
 ## license
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
